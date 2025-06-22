@@ -42,7 +42,7 @@
 
 ### 📫 Me contacter
 
-- 📧 Email : [ton.email@exemple.com]
+- 📧 Email : [moussadiqo@gmail.com]
 - 🔗 LinkedIn : [Lien vers ton profil]
 - 🧭 Portfolio : bientôt disponible...
 
