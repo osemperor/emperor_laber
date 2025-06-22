@@ -1,5 +1,5 @@
 <!-- Bannière de profil -->
-<img src="https://i.imgur.com/dD3vZzP.png" alt="Bienvenue sur mon GitHub" width="100%" />
+<img src="[https://i.imgur.com/dD3vZzP.png](https://techcrunch.com/2016/05/10/please-dont-learn-to-code/)" alt="Bienvenue sur mon GitHub" width="100%" />
 
 <h1 align="center">Salut 👋, moi c'est Oussama Moussadiq</h1>
 <h3 align="center">Étudiant à l'ENSA | Apprenti développeur web 🌐</h3>
