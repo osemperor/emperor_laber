@@ -1,5 +1,5 @@
 <!-- Bannière de profil -->
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSmatSr3THeYjp_SWNMu8UFfMQFQURGi87UQ&s" width="1000" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSmatSr3THeYjp_SWNMu8UFfMQFQURGi87UQ&s" width="500" />
 
 <h1 align="center">Salut 👋, moi c'est Oussama Moussadiq</h1>
 <h3 align="center">Étudiant à l'ENSA | Apprenti développeur web 🌐</h3>
